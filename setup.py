@@ -16,7 +16,7 @@ setuptools.setup(
     author="Keisuke Kawano",
     url="https://github.com/kskkwn/SPRING",
     packages=setuptools.find_packages("spring"),
-    package_dir={"": "src"},
+    package_dir={"": "spring"},
     py_modules=[splitext(basename(path))[0] for path in glob('spring/*.py')],
     include_package_data=True,
     zip_safe=False,
