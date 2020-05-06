@@ -33,5 +33,5 @@ pip3 install git+https://github.com/kskkwn/SPRING.git
 
 
 # Reference
-Sakurai, Yasushi, Christos Faloutsos, and Masashi Yamamuro. "Stream monitoring under the time warping distance." 2007 IEEE 23rd International Conference on Data Engineering. IEEE, 2007.
+Yasushi Sakurai, Christos Faloutsos, and Masashi Yamamuro. "Stream monitoring under the time warping distance." 2007 IEEE 23rd International Conference on Data Engineering. IEEE, 2007.
 
