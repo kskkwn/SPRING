@@ -3,8 +3,9 @@ This is an unofficial python implementation of the SPRING algorithm, which is a 
 
 
 # Install
-
-
+```bash
+pip3 install git+https://github.com/kskkwn/SPRING.git
+```
 
 # Example
 ```python
