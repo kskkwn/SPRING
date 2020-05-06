@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/kskkwn/SPRING",
-    packages=setuptools.find_packages(),
+    packages=["spring"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: MIT License",
